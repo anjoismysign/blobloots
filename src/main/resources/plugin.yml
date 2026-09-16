@@ -1,0 +1,12 @@
+name: BlobLoots
+version: ${project.version}
+main: io.github.anjoismysign.blobloots.BlobLoots
+api-version: 1.21
+authors: [anjoismysign]
+description: blobloots
+depend:
+  - BlobLib
+softdepend:
+  - PlaceholderAPI
+commands:
+  blobloots: {}

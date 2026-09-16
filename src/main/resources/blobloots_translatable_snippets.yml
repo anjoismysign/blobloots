@@ -1,0 +1,7 @@
+ChestLoot:
+  Loot:
+    Snippet: '&e&lLOOT CRATE'
+  Loot-Looted:
+    Snippet: '&7Restocks in &f%time%'
+  Loot-Restocked:
+    Snippet: '&7Restocked!'

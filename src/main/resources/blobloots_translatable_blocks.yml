@@ -1,0 +1,5 @@
+ChestLoot:
+  Loot:
+    Block:
+      - '%bloblibtranslatable_snippet_ChestLoot.Loot%'
+      - '%blobloots_timeRemaining_$chestLoot$%'

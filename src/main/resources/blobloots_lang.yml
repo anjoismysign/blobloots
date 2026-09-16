@@ -1,0 +1,12 @@
+ChestLoot:
+  On-Cooldown:
+    Title: '&c&lHOLD ON!'
+    Subtitle: '&7Can loot again in %time%'
+  Not-Found:
+    Chat: '&cChestLoot not found: %chestLoot%'
+  Added:
+    Title: '&f&lDONE!'
+    Subtitle: '&7Block has been added'
+  Removed:
+    Title: '&f&lDONE!'
+    Subtitle: '&7Block has been removed'

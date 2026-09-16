@@ -1,0 +1,8 @@
+ChestLoot:
+  Wand:
+    ItemStack:
+      Material: STICK
+      ItemName: '&6%identifier%'
+      Lore:
+        - '&fLMB &7a block for removing it'
+        - '&fRMB &7a block for adding it'

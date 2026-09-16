@@ -1,0 +1,5 @@
+ChestLoot:
+  Drop:
+    Sound: entity.item.pickup
+    Volume: 1.0
+    Pitch: 0.75
